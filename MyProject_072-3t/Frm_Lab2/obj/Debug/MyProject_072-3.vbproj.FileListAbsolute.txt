@@ -1,0 +1,13 @@
+D:\VB\MyProject_072-3\Frm_Lab2\bin\Debug\Frm_Lab2.exe.config
+D:\VB\MyProject_072-3\Frm_Lab2\bin\Debug\Frm_Lab2.exe
+D:\VB\MyProject_072-3\Frm_Lab2\bin\Debug\Frm_Lab2.pdb
+D:\VB\MyProject_072-3\Frm_Lab2\bin\Debug\Frm_Lab2.xml
+D:\VB\MyProject_072-3\Frm_Lab2\obj\Debug\MyProject_072-3.vbprojAssemblyReference.cache
+D:\VB\MyProject_072-3\Frm_Lab2\obj\Debug\Frm_Lab2.lab1.resources
+D:\VB\MyProject_072-3\Frm_Lab2\obj\Debug\Frm_Lab2.lab2.resources
+D:\VB\MyProject_072-3\Frm_Lab2\obj\Debug\Frm_Lab2.Resources.resources
+D:\VB\MyProject_072-3\Frm_Lab2\obj\Debug\MyProject_072-3.vbproj.GenerateResource.cache
+D:\VB\MyProject_072-3\Frm_Lab2\obj\Debug\MyProject_072-3.vbproj.CoreCompileInputs.cache
+D:\VB\MyProject_072-3\Frm_Lab2\obj\Debug\Frm_Lab2.exe
+D:\VB\MyProject_072-3\Frm_Lab2\obj\Debug\Frm_Lab2.xml
+D:\VB\MyProject_072-3\Frm_Lab2\obj\Debug\Frm_Lab2.pdb
